@@ -21,7 +21,7 @@ Developer Github      : https://github.com/souvik-saha-jupe
 Project Information
 --------------------------------------------------------------------------------------------------------
 
-Project Website       : https://jupc.co.in
+Project Website       : https://jupconline.in
 
 Project Details       : Website created using HTML, CSS, JavaScript and Bootstrap
 
@@ -29,7 +29,8 @@ Project Purpose       : Website for JUPC
 
 --------------------------------------------------------------------------------------------------------
 
-Backup Repository Link : 
+Backup Repository Link : https://github.com/souvik-saha-jupe/jupconilne-backup
+
 --------------------------------------------------------------------------------------------------------
 
 Copyright © 2023 Developer. All rights reserved.

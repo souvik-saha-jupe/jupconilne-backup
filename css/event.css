@@ -1,0 +1,36 @@
+.events .box-container{
+    margin-top: 3.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    gap:1.5rem;
+}
+
+.events .box-container .box{
+    padding:2rem 0;
+    background:#333;
+    border-radius: .5rem;
+    text-align: center;
+}
+
+.events .box-container .box:hover{
+    transform: scale(1.03);
+}
+
+.events .box-container .box .title{
+    background:var(--main-color);
+    color:#fff;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-size: 2rem;
+}
+
+.events .box-container .box p{
+    font-size: 1.5rem;
+    color:#eee;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    line-height: 1.2;
+    text-align: justify;
+}
